@@ -24,3 +24,4 @@ It is a model of how a computer adds basic numbers.
 Since it is only meant to calculate 4 bit numbers, adding values that go over 15 will result in an incorrect ansewer. 
 The program stops calculating at the 4th digit.
 If you add 1111 (15) and 0001 (1), the result should be 10000 (16). This calculator will display 0000.
+This works with Repl.it, the other repository doesn't
